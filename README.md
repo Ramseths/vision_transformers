@@ -3,9 +3,9 @@
 
 ## Arquitectura del Modelo
 
-* La mayoría de los modelos competitivos de transducción de secuencias neuronales tienen una estructura de codificador-decodificador.
+* La mayoría de los modelos competitivos de traducción de secuencias neuronales tienen una estructura de codificador-decodificador.
 Aquí, el codificador mapea una secuencia de entrada de representaciones de símbolos (x1, ..., xn) a una secuencia
-de representaciones continuas z = (z1, ..., zn). Dado z, el descodificador genera una secuencia de salida
+de representaciones continuas z = (z1, ..., zn). Dado z, el decodificador genera una secuencia de salida
 (y1, ..., ym) de símbolos, un elemento cada vez. En cada paso el modelo es autorregresivo.
 
 ## Encoder and Decoder
