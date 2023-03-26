@@ -15,3 +15,6 @@
 
 The Vision Transformer employs the Transformer Encoder that was proposed in the [attention is all you need paper](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf).
 
+# Architecture
+
+![Architecture](data/arquitectura.jpg)
